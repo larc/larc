@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD(c) and Research Assistant at the University of Zurich, Switzerland. I obtained his MSc from the Fluminense Federal University, Brazil, and his BSc in Computer Science from the National University of San Agustín, Arequipa. I was an early-stage researcher in the [EVOCATION](https://evocation.eu/) innovative training network. I did a secondment at the University of Rostock, Germany, and a research visit at Technion, Israel. My research interests cover the following topics: real-time ray tracing, point cloud graphics, multi-display and parallel rendering, geometry processing, and geometric deep learning, in addition to my ongoing interest in algorithms, data structures, graphs, computational geometry, and competitive programming.
+I am a PhD(c) and Research Assistant at the University of Zurich, Switzerland. I obtained my MSc from the Fluminense Federal University, Brazil, and my BSc in Computer Science from the National University of San Agustín, Arequipa. I was an early-stage researcher in the [EVOCATION](https://evocation.eu/) innovative training network. My research interests cover the following topics: real-time ray tracing, point cloud graphics, multi-display and parallel rendering, geometry processing, and geometric deep learning, in addition to my ongoing interest in algorithms, data structures, graphs, computational geometry, and competitive programming.
 
 <!--
 **larc/larc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
